@@ -43,3 +43,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AjudaCerta.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[G:/Vinicin/AjudaCertaTCC/AjudaCerta/AjudaCerta/Views/Doacao.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AjudaCerta.Views.Doacao.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Doacao.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Doacao.xaml
